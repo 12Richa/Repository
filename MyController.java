@@ -17,7 +17,7 @@ public class MyController implements Controller {
 		d = new Date();
 		// create and return mav object
 		return new ModelAndView("result", "sysdate", d);
-		System.out.println("Hello World");
+		System.out.println(" World");
 	}
 
 }
