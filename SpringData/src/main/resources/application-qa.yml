@@ -1,0 +1,7 @@
+#configure applications specific msgs into properties file     
+formapp: 
+   messages: 
+        regSuccess: Registration Successful....QA
+        regFailure: Registration Failed
+  
+   
